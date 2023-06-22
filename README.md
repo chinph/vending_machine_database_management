@@ -1,4 +1,4 @@
-# Vending machine Database Management
+# Vending Machine Database Management
 ## 1. Project Purpose
 CUNY has a wide range of vending machines to provide its staff and students with various types of
 snacks and beverages. In order to manage the machines effectively and bring employees and students
